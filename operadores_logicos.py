@@ -37,6 +37,5 @@ print("El resultado de operar con jerarquia de operaciones es", y)
 
 # Ejemplo 5: Operadores relacionales y logicos
 y = not 3 > 4 and 4 == 4 or 3 < 2
-print("El resultado de operar con jerarquia de operaciones es", y)
 
 
